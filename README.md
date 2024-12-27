@@ -12,7 +12,7 @@ This project is a simple demonstration of how to work with RabbitMQ using Node.j
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/iamifechi/rabbitmq-receiver
     cd rabbitmq-receiver
     ```
 
@@ -57,4 +57,3 @@ This project is a simple demonstration of how to work with RabbitMQ using Node.j
 ## License
 
 This project is licensed under the MIT License.
-# rabbitmq-receiver
